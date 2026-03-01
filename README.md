@@ -205,13 +205,6 @@ http://localhost:5000
 - Secure secret management
 - Docker Hub integration
 
-This project is suitable for:
-
-- DevOps beginners
-- Students learning CI/CD
-- Portfolio projects
-- Internship demonstrations
-
 ---
 
 ## 👩‍💻 Author
